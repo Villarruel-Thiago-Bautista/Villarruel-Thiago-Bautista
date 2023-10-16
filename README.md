@@ -9,7 +9,7 @@
 - 📝 Pronto: Técnico Universitario en Programación (Noviembre 2023)
 - 📫 Me pueden contactar por:
     - Email: **thiagobautistavillarruel@hotmail.com**
-    - LinkedIn: <a href="linkedin.com/in/villarruelthiagobautista">Villarruel Thiago Bautista</a>
+    - LinkedIn: <a href="https://www.linkedin.com/in/villarruelthiagobautista/">Villarruel Thiago Bautista</a>
 
   <div align="left">
         <h3>🔨 Lenguajes y herramientas:</h3>
