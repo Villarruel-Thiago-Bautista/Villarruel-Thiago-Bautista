@@ -6,9 +6,10 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📝 Soy Técnico Universitario en Programación
-
-- 📫 Me pueden contactar por: **thiagobautistavillarruel@hotmail.com**
+- 📝 Pronto: Técnico Universitario en Programación (Noviembre 2023)
+- 📫 Me pueden contactar por:
+    -     Email: thiagobautistavillarruel@hotmail.com
+    -     LinkedIn: linkedin.com/in/villarruelthiagobautista/
 
   <div align="left">
         <h3>🔨 Lenguajes y herramientas:</h3>
