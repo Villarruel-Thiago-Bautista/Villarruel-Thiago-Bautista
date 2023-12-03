@@ -6,7 +6,7 @@
 
 ### 👨‍💻 Sobre mi :
 
-- 📝 Pronto: Técnico Universitario en Programación (Noviembre 2023)
+- 📝 Técnico Universitario en Programación
 - 📫 Me pueden contactar por:
     - Email: **thiagobautistavillarruel@hotmail.com**
     - LinkedIn: <a href="https://www.linkedin.com/in/villarruelthiagobautista/" target="_blank">Villarruel Thiago Bautista</a>
