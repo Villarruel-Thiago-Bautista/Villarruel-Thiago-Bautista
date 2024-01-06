@@ -29,8 +29,8 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="80" height="80"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/develop/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="80" height="80"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="80" height="80"/>&nbsp;
-            <img src="https://thumbs2.imgbox.com/85/d6/5pif7Qhp_t.jpg" alt="image host" width="80" height="80"/>
-            <img src="https://thumbs2.imgbox.com/7d/f5/BMmOin1T_t.png" alt="image host" width="80" height="80"/>
+            <img src="https://thumbs2.imgbox.com/7d/f5/BMmOin1T_t.png" alt="image host" width="100" height="100"/>
+            <img src="https://thumbs2.imgbox.com/eb/5e/bKCYAp0I_t.png" alt="image host" width="80" height="80"/>
             <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
         </div>
   </div>
