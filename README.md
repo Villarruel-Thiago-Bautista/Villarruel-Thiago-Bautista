@@ -13,7 +13,7 @@
 
   <div align="left">
         <h3>🔨 Lenguajes y herramientas:</h3>
-        <p>Java - Spring / Spring boot - SpringMVC - Spring data JPA - MySQL - JUnit - Mockito - HTML - CSS - JavaScript - Git - Postman - Swagger - SCRUM - Maven  </p>
+        <p>Java - Spring / Spring boot - SpringMVC - Spring data JPA - MySQL - JUnit - Mockito - HTML - CSS - JavaScript - Git - Postman - Swagger - SCRUM - Maven - Go - Fury - Docker -  </p>
         <div>
               <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="80" height="80"/>&nbsp;
               <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring boot" alt="Spring boot" width="80" height="80"/>&nbsp;
@@ -28,6 +28,9 @@
             <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" title="Jetbrains" alt="Jetbrains" width="80" height="80"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntelliJ" alt="IntelliJ" width="80" height="80"/>&nbsp;
             <img src="https://github.com/devicons/devicon/blob/develop/icons/maven/maven-original-wordmark.svg" title="Maven" alt="Maven" width="80" height="80"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="80" height="80"/>&nbsp;
+            <img src="https://imgbox.com/fFiIr4BK" title="Fury" alt="Fury" width="80" height="80"/>&nbsp;
+            <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
         </div>
   </div>
   
