@@ -34,7 +34,7 @@
             <a href="https://imgbox.com/5pif7Qhp" target="_blank"><img src="https://thumbs2.imgbox.com/85/d6/5pif7Qhp_t.jpg" alt="image host" width="80" height="80"/></a>
             [URL=https://imgbox.com/5pif7Qhp][IMG]https://thumbs2.imgbox.com/85/d6/5pif7Qhp_t.jpg[/IMG][/URL]
             <img src="[URL=https://imgbox.com/5pif7Qhp][IMG]https://thumbs2.imgbox.com/85/d6/5pif7Qhp_t.jpg[/IMG][/URL]" alt="Fury" width="80" height="80"/>&nbsp;
-            <img src="<a href="https://imgbox.com/5pif7Qhp" target="_blank"><img src="https://thumbs2.imgbox.com/85/d6/5pif7Qhp_t.jpg" alt="image host"/></a>" title="Fury" alt="Fury" width="80" height="80"/>&nbsp;
+            <img src="<a href="https://imgbox.com/5pif7Qhp" target="_blank"><img src="https://thumbs2.imgbox.com/85/d6/5pif7Qhp_t.jpg" alt="image host" width="80" height="80"/></a>" title="Fury" alt="Fury" width="80" height="80"/>&nbsp;
             
             <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg" title="Docker" alt="Docker" width="80" height="80"/>&nbsp;
         </div>
